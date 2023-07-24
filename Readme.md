@@ -47,8 +47,8 @@ I hope this helps! Let me know if you have any further questions.
 
 Images how Register Form will look
 
-![Register Form 1](https://github.com/dipeshbansal/react-native-register-form/blob/main/assets/IMG-0417.PNG?raw=true)
-![Register Form 2](https://github.com/dipeshbansal/react-native-register-form/blob/main/assets/IMG-0416.PNG?raw=true)
-![Register Form 3](https://github.com/dipeshbansal/react-native-register-form/blob/main/assets/IMG-0415.PNG?raw=true)
+![Register Form 1](https://github.com/dipeshbansal/react-native-register-form/blob/main/assets/IMG-0417.png?raw=true)
+![Register Form 2](https://github.com/dipeshbansal/react-native-register-form/blob/main/assets/IMG-0416.png?raw=true)
+![Register Form 3](https://github.com/dipeshbansal/react-native-register-form/blob/main/assets/IMG-0415.png?raw=true)
 
 
